@@ -1,24 +1,34 @@
-# README
+# Sparta Global Controllers Lab
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+For this project we were required to make 4 different controllers each containing 4 different methods. Using the command
+**'rails generate controller ** *"name of controller" "name of method" etc.'*
+and using my understanding of rails routes.
 
-Things you may want to cover:
+These are the following controllers I created, along with the methods they have:
 
-* Ruby version
+* Index Controller
+  * First controller
+  * Second controller
+  * Third controller
+  * Fourth controller
 
-* System dependencies
 
-* Configuration
+* User Controller
+  * First Name
+  * Last Name
+  * Gender
+  * Email
 
-* Database creation
 
-* Database initialization
+* Address Controller
+  * House Number
+  * Road/Street
+  * City
+  * Postcode
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Bank Controller
+  * Name on the Cardholder
+  * Card Number
+  * Sort Code
+  * Expiry Date
