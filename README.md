@@ -1,24 +1,40 @@
-# README
+# Sparta Global Controllers Lab
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Instructions for use:
 
-Things you may want to cover:
+* To use this project git clone the repository to your computer.
+* Access the directory of the file inside your terminal and enter the text "rails s". To view the code open the files using your text editor.
+* In your browser enter the text "http://localhost:3000/index/first", to take the server down in your terminal hit the ctrl + c keys simultaneously 
 
-* Ruby version
+For this project I was required to make 4 different controllers each containing 4 different methods. Using the command
+\'*rails generate controller* *\"name of controller\" \"name of method\" etc.\'*
+and using my understanding of rails routes.
 
-* System dependencies
+These are the following controllers I created, along with the methods they have:
 
-* Configuration
+* Index Controller
+  * First controller
+  * Second controller
+  * Third controller
+  * Fourth controller
 
-* Database creation
 
-* Database initialization
+* User Controller
+  * First Name
+  * Last Name
+  * Gender
+  * Email
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+* Address Controller
+  * House Number
+  * Road/Street
+  * City
+  * Postcode
 
-* Deployment instructions
 
-* ...
+* Bank Controller
+  * Name on the Cardholder
+  * Card Number
+  * Sort Code
+  * Expiry Date
